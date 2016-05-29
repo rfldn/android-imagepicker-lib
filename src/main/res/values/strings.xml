@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="choose_image_source">Choisissez une source pour votre image.</string>
+    <string name="camera">Appareil photo</string>
+    <string name="gallery">Galerie</string>
+    <string name="cancel">Annuler</string>
+    <string name="no_camera_available">Cet appareil ne possède pas d’appareil photo</string>
+
+</resources>
